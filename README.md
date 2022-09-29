@@ -5,4 +5,4 @@ This study is inspired by the paper *[Optimal Scheduling of Vehicle-to-Grid Ener
 * a comparison between traditional Smart Charging and more innovative Vehicle-to-Grid (V2G) is proposed,
 * the Italian electricity market and regulations are considered.
 
-For more details on the problem formulation, input data and simulation and results, please refer to: 
+For more details on the problem formulation, input data and simulation and results, please refer to: https://github.com/andreabertolini1995/energy-systems-optimization/blob/main/EnergySystemOptimization_Final_presentation.pdf. 
